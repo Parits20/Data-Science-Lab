@@ -1,4 +1,4 @@
-# @author: 22000214 - Abhiraj Chaudhuri
+# @author: 22000781 - Parita Tarvani
 # @description: Program No.
 # 3. Write an OOP program to perform addition, base and power, concatenation, max, min of two
 # numbers stored in two different objects created from same class.

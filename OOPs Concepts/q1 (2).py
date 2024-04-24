@@ -1,4 +1,4 @@
-# @author: 22000214 - Abhiraj Chaudhuri
+# @author: 22000781 - Parita Tarvani
 # @description: Program No. 1. Write a OOP in python to input empid, name, basic salary, no. of experience in yrs.
 # Calculate hra(35% of basic), da (58% of basic) and pf (9.5% of basic).
 # Also calculate bonus based on experience in years.

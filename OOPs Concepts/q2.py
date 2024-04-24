@@ -1,4 +1,4 @@
-# @author: 22000214 - Abhiraj Chaudhuri
+# @author: 22000781 - Parita Tarvani
 # @description: Program No. 2
 # 2. Write an OOP based Python program which
 # inputs n numbers in a list from keyboard.
