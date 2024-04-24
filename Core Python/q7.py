@@ -1,4 +1,4 @@
-# @author: 22000214 - Abhiraj Chaudhuri
+# @author: 22000781 - Parita Tarvani
 # @description: Program No. 7. Create a function that grabs the email website domain from a string in the form:
 # "user@domain.com"
 # So for example, passing "user@domain.com" would return: domain.com

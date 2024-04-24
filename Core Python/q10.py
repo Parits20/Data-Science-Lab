@@ -1,4 +1,4 @@
-# @author: 22000214 - Abhiraj Chaudhuri
+# @author: 22000781 - Parita Tarvani
 # @description: Program No. 10. You ou are driving a little too fast, and a police officer stops you. Write a function to return one of
 # 3 possible results: "No ticket", "Small ticket", or "Big Ticket". If your speed is 60 or less, the
 # result is "No Ticket". If speed is between 61 and 80 inclusive, the result is "Small Ticket". If

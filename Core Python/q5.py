@@ -1,4 +1,4 @@
-# @author: 22000214 - Abhiraj Chaudhuri
+# @author: 22000781 - Parita Tarvani
 # @description: Program No. 5. Given this nested dictionary grab the word "hello".
 # d = {'k1':[1,2,3,{'tricky':['oh','man','inception',{'target':[1,2,3,'hello']}]}]}
 

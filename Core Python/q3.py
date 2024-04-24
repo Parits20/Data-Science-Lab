@@ -1,4 +1,4 @@
-# @author: 22000214 - Abhiraj Chaudhuri
+# @author: 22000781 - Parita Tarvani
 # @description: Program No. 3. use .format() to print the following statement: The diameter of Earth is 12742 kilometers.
 
 planet = "Earth"

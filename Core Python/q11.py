@@ -1,4 +1,4 @@
-# @author: 22000214 - Abhiraj Chaudhuri
+# @author: 22000781 - Parita Tarvani
 # @description: Program No. 11. Write a program to input roll no, student name, marks of physics, chemistry and maths out of
 # 100. (0-100). Calculate total, percentage, calculate STATUS (pass, fail) if students scores
 # above 40 in all the 3 subjects the STATUS should be pass otherwise fail.
